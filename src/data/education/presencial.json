@@ -1,0 +1,17 @@
+{
+  "slug" : "Presencial",
+  "title": "Formacion Academica",
+  "description": "Formacion academica, grados de estudio e instituciones a la que asisti",
+  "items" : [
+    {
+      "name":"Instituto Universitario Gerencia y Tecnologia",
+      "degree": "T.S.U en Informatica",
+      "score":"XX"
+    },
+    {
+      "name":"Unidad Educativa Instituto Cecilio Acosta",
+      "degree":"Bachiller en ciencias",
+      "score":"XX"
+    }
+  ]
+  }

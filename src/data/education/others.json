@@ -1,0 +1,17 @@
+{
+  "slug" : "others",
+  "title": "Otros logros academicos",
+  "description": "Diplomados en las que he participado",
+  "items" : [
+    {
+      "name":"CVA",
+      "degree": "C-1 Proficiency",
+      "score":"XX"
+    },
+    {
+      "name":"CVA",
+      "degree":"B-2 Proficiency",
+      "score":"XX"
+    }
+  ]
+  }

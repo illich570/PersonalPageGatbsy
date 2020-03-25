@@ -1,0 +1,23 @@
+{
+  "slug" : "online",
+  "title": "Cursos en linea",
+  "description": "Cursos finalizados en plataformas MOOC",
+  "items" : [
+    {
+      "name":"Curso de NodeJs",
+      "url": "https://www.udemy.com/course/la-biblia-de-nodejs/"
+    },
+    {
+      "name":"Curso Profesional de PHP",
+      "url":"https://codigofacilito.com/cursos/php-profesional"
+    },
+    {
+      "name": "Introduccion al Desarollo Web I",
+      "url":"https://learndigital.withgoogle.com/activate/course/web-development-I"
+    },
+    {
+      "name": "Introduccion al Desarollo Web II",
+      "url":"https://learndigital.withgoogle.com/activate/course/web-development-II"
+    }
+  ]
+  }
